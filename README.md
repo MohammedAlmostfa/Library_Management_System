@@ -1,4 +1,4 @@
-# Simple library management system
+# library management system
 
 A library system that enables you to borrow and return books.
 
