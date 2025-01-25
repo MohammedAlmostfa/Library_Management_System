@@ -1,6 +1,6 @@
 # library management system
 
-A library system that enables you to borrow and return books.
+This project aims to build an application programming interface (API) to manage the process of retrieving and borrowing type from the library 
 
 ## Attributes
 
